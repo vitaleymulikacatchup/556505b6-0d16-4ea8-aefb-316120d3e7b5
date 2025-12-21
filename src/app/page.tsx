@@ -27,8 +27,8 @@ export default function LandingPage() {
       <div id="nav" data-section="nav">
         <NavbarStyleMinimal
           logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766159702350-xj5bspxq.jpg"
-          logoAlt="CARGAS Coffee Shop"
-          brandName="CARGAS"
+          logoAlt="CargaLOCKED_SELECTION Coffee Shop"
+          brandName="CargaLOCKED_SELECTION"
           button={{
             text: "Reserve Table",
             href: "#contact"
@@ -39,7 +39,7 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroBillboardMetrics
           title="Crafted Daily on Exceptional Coffee"
-          description="Experience the finest specialty coffee blends, expertly prepared by our passionate baristas. Welcome to CARGAS - where quality meets perfection in every cup."
+          description="Experience the finest specialty coffee blends, expertly prepared by our passionate baristas. Welcome to CargaLOCKED_SELECTION - where quality meets perfection in every cup."
           tag="Premium Coffee"
           buttons={[
             {
@@ -214,7 +214,7 @@ export default function LandingPage() {
               imageAlt: "Rachel Martinez"
             }
           ]}
-          cardTitle="Over 15,000 customers have experienced the CARGAS difference in their daily coffee ritual"
+          cardTitle="Over 15,000 customers have experienced the CargaLOCKED_SELECTION difference in their daily coffee ritual"
           cardTag="Customer Testimonials"
           useInvertedBackground="noInvert"
         />
@@ -223,7 +223,7 @@ export default function LandingPage() {
       <div id="contact" data-section="contact">
         <ContactSplitForm
           title="Reserve Your Table or Order Online"
-          description="Get in touch with CARGAS Coffee Shop. We welcome reservations for groups and special occasions. Fill out the form below and we'll confirm your booking promptly."
+          description="Get in touch with CargaLOCKED_SELECTION Coffee Shop. We welcome reservations for groups and special occasions. Fill out the form below and we'll confirm your booking promptly."
           inputs={[
             {
               name: "name",
@@ -257,7 +257,7 @@ export default function LandingPage() {
             required: false
           }}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766159723366-e5earzme.jpg"
-          imageAlt="CARGAS Coffee Shop Interior"
+          imageAlt="CargaLOCKED_SELECTION Coffee Shop Interior"
           mediaPosition="right"
           buttonText="Reserve Table"
           useInvertedBackground="noInvert"
@@ -267,11 +267,11 @@ export default function LandingPage() {
       <div id="footer" data-section="footer">
         <FooterBaseSocial
           logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766159702350-xj5bspxq.jpg"
-          logoText="CARGAS"
+          logoText="CargaLOCKED_SELECTION"
           logoWidth={120}
           logoHeight={40}
           description="Premium specialty coffee crafted with passion and precision. From bean selection to the perfect cup, we deliver exceptional coffee experiences every single day."
-          copyrightText="© 2025 CARGAS Coffee Shop. All rights reserved."
+          copyrightText="© 2025 CargaLOCKED_SELECTION Coffee Shop. All rights reserved."
           columns={[
             {
               title: "Shop",
@@ -298,7 +298,7 @@ export default function LandingPage() {
               title: "Company",
               items: [
                 {
-                  label: "About CARGAS",
+                  label: "About CargaLOCKED_SELECTION",
                   href: "about"
                 },
                 {

@@ -10,28 +10,28 @@ const cormorant = Cormorant({
 });
 
 export const metadata: Metadata = {
-  title: "CARGAS Coffee Shop - Premium Specialty Coffee",
-  description: "Experience exceptional specialty coffee at CARGAS. Expert baristas, artisan blends, and premium service. Reserve your table today.",
+  title: "CargaLOCKED_SELECTION Coffee Shop - Premium Specialty Coffee",
+  description: "Experience exceptional specialty coffee at CargaLOCKED_SELECTION. Expert baristas, artisan blends, and premium service. Reserve your table today.",
   keywords: ["specialty coffee", "coffee shop", "espresso", "latte art", "premium coffee", "artisan coffee"],
-  metadataBase: new URL("https://cargas-coffee.com"),
+  metadataBase: new URL("https://cargalocked-selection-coffee.com"),
   alternates: {
-    canonical: "https://cargas-coffee.com"
+    canonical: "https://cargalocked-selection-coffee.com"
   },
   openGraph: {
-    title: "CARGAS Coffee Shop",
+    title: "CargaLOCKED_SELECTION Coffee Shop",
     description: "Premium specialty coffee crafted with passion and precision",
     type: "website",
-    siteName: "CARGAS Coffee Shop",
+    siteName: "CargaLOCKED_SELECTION Coffee Shop",
     images: [
       {
         url: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766159704025-hvb8evqz.jpg",
-        alt: "CARGAS Premium Coffee"
+        alt: "CargaLOCKED_SELECTION Premium Coffee"
       }
     ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "CARGAS Coffee Shop",
+    title: "CargaLOCKED_SELECTION Coffee Shop",
     description: "Experience exceptional specialty coffee",
     images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766159704025-hvb8evqz.jpg"]
   },
