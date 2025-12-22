@@ -38,7 +38,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroBillboardMetrics
-          title="Crafted Daily with Exceptional Coffee"
+          title="Exceptional Coffee Crafted Daily"
           description="Experience the finest specialty coffee blends, expertly prepared by our passionate baristas. Welcome to CargaLOCKED_SELECTION - where quality meets perfection in every cup."
           tag="Premium Coffee"
           buttons={[
